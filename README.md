@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vladimir Loginov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> Software Enginner at <a href="https://practicum.yandex.ru/"> Yandex.Practicum </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em> Graduate Backend Developer from <a href="https://practicum.yandex.ru/"> Yandex.Practicum </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: rume73](https://img.shields.io/badge/-rume73-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
