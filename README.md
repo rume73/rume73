@@ -1,6 +1,6 @@
-<h2> Hi, I'm Vladimir Loginov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Vladimir Loginov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> Software Enginner Enginner at <a href="practicum.yandex.ru"> Yandex.Practicum </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em> Software Enginner at <a href="practicum.yandex.ru"> Yandex.Practicum </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: rume73](https://img.shields.io/badge/-rume73-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const rume = {
     pronouns: "He" | "Him",
     code: ["Python", "C#"],
     askMeAbout: ["web dev", "tech", "photography"],
@@ -18,7 +18,7 @@ const anmol = {
         backEnd: {
             python: ["Django", "DRF", "FastAPI"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["Docker🐳", "Nginx", "AWS"],
         databases: ["PostgreSQL", "sqlite"],
         misc: ["telegram-bot", "pandas"]
     },
