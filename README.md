@@ -3,7 +3,7 @@
 <p><em> Software Enginner Enginner at <a href="practicum.yandex.ru"> Yandex.Practicum </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: rume73](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
+[![Linkedin: rume73](https://img.shields.io/badge/-rume73-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
 [![GitHub rume73](https://img.shields.io/github/followers/rume73?label=follow&style=social)](https://github.com/rume73)
 
 
