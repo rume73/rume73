@@ -16,7 +16,7 @@ const anmol = {
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         backEnd: {
-            python: ["Node", "Fastify", "Express"],
+            python: ["Django", "DRF", "FastAPI"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["PostgreSQL", "sqlite"],
