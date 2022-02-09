@@ -23,7 +23,7 @@ const rume = {
         tools: ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook"],
         misc: ["TDD", "SOLID", "GNU/Linux", "telegram-bot"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["SPA", "MVC", "Serverless", "microservices"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
