@@ -18,9 +18,10 @@ const rume = {
         backEnd: {
             python: ["Django", "DRF", "FastAPI"],
         },
-        devOps: ["Docker🐳", "Nginx", "AWS"],
-        databases: ["PostgreSQL", "sqlite"],
-        misc: ["telegram-bot", "pandas"]
+        devOps: ["Docker🐳", "Nginx", "GitHub Actions", "AWS", "Heroku"],
+        databases: ["PostgreSQL", "SQLite3"],
+        tools: ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook"],
+        misc: ["TDD", "SOLID", "GNU/Linux", "telegram-bot"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
