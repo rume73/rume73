@@ -3,7 +3,7 @@
 <p><em> I'm a tech enthusiast who loves to learn about new things. </em></p>
 
 [![Linkedin: rume73](https://img.shields.io/badge/-rume73-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
-[![Instagram Badge](https://img.shields.io/badge/-vladimirumi-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vladimirumi/)](https://www.instagram.com/vlaimirumi/)
+[![Instagram Badge](https://img.shields.io/badge/-vladimirumi-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vladimirumi/)](https://www.instagram.com/vladimirumi/)
 [![GitHub rume73](https://img.shields.io/github/followers/rume73?label=follow&style=social)](https://github.com/rume73)
 
 
