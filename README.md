@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vladimir Loginov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> </em></p>
+<p><em> I'm a tech enthusiast who loves to learn about new things. </em></p>
 
 [![Linkedin: rume73](https://img.shields.io/badge/-rume73-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rume73/)](https://www.linkedin.com/in/rume73/)
 [![Instagram Badge](https://img.shields.io/badge/-vladimirumi-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vladimirumi/)](https://www.instagram.com/vlaimirumi/)
