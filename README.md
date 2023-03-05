@@ -19,11 +19,12 @@ class Rume:
         self.web = 'https://rume73.pythonanywhere.com/'
         self.telegram = '@Rume73'
         self.code = {
-            'backend': [{'Python': ['Django', 'DRF']}, 'C#'],
-            'database': ['PostgreSQL', 'SQLite3'],
-            'devops': ['Docker🐳', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
+            'backend': [{'Python': ['Django', 'DRF', 'FastAPI']}, 'C#'],
+            'frontend': [{'JavaScript': 'Ext4JS'}, 'HTML', 'CSS']
+            'database': ['PostgreSQL', 'Oracle', 'Firebird', 'SQLite3'],
+            'devops': ['Docker🐳', 'Nginx', 'GitHub Actions', 'AWS S3', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
-            'misc': ['TDD', 'SOLID', 'Linux', 'telegram-bot']
+            'misc': ['TDD', 'SOLID', 'Linux', 'telegram-bot', 'aiogram']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
